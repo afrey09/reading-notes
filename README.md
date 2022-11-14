@@ -13,3 +13,5 @@ To have a growth mindset I think means to have self-awareness; awareness of how 
 - > *No one is good at it when just beginning*
 - > *It's meant to be hard. We grow by challenging ourselves*
 - > *I can't figure it out...yet*  
+
+afrey09/reading-notes
