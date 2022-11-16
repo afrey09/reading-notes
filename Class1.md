@@ -1,4 +1,4 @@
-***Class 1 Notes - Markdown***
+***Class 1 Notes - Markdown/GitHub***
 
 Markdown is a toolbox on GitHub that provides you with ways to modify your project or website. It is essentially a book of translations that shows you which symbols create the intended affect
 Bookmarking the sites provided will be useful in the future as cheat sheets to reference when creating and modifying our websites.
