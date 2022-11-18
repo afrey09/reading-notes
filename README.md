@@ -1,6 +1,6 @@
 # reading-notes
 
-[Table of Contents](reading-notes/TableofContents)
+[Table of Contents](TableofContents)
 
 **My Reading Journal for 102**
 
