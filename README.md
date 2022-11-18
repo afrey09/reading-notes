@@ -30,9 +30,9 @@ To have a growth mindset I think means to have self-awareness; awareness of how 
 
 [Class 6 -Javascript](102notes/class6notes.md)
 
-[Class 7 -Programming](class7notes.md)
+[Class 7 -Programming](102notes/class7notes.md)
 
-[Class 8 -Operators and Loops](reading-notes/102notes/class8notes.md)
+[Class 8 -Operators and Loops](102notes/class8notes.md)
 
 ### Code 201 Reading-Notes
 
