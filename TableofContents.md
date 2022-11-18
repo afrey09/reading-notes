@@ -2,7 +2,7 @@
 
 ## Code 102 Reading-Notes
 
-[Class 1 -Markdown](reading-notes/102notes/class1)
+[Class 1 -Markdown](102notes/class1)
 
 [Class 2 -The Coder's Computer](reading-notes/102notes/class2notes)
 
