@@ -4,17 +4,17 @@
 
 [Class 1 -Markdown](102notes/class1)
 
-[Class 2 -The Coder's Computer](reading-notes/102notes/class2notes)
+[Class 2 -The Coder's Computer](102notes/class2notes)
 
-[Class 3 -Git Intro](reading-notes/102notes/class3notes)
+[Class 3 -Git Intro](102notes/class3notes)
 
-[Class 4 -HTML Structure](reading-notes/102notes/class4notes)
+[Class 4 -HTML Structure](102notes/class4notes)
 
-[Class 5 -CSS](reading-notes/102notes/class5notes)
+[Class 5 -CSS](102notes/class5notes)
 
-[Class 6 -Javascript](reading-notes/102notes/class6notes)
+[Class 6 -Javascript](102notes/class6notes)
 
-[Class 7 -Programming](reading-notes/102notes/class7notes)
+[Class 7 -Programming](class7notes)
 
 [Class 8 -Operators and Loops](reading-notes/102notes/class8notes)
 
