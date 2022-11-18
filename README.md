@@ -16,4 +16,57 @@ To have a growth mindset I think means to have self-awareness; awareness of how 
 - > *It's meant to be hard. We grow by challenging ourselves*
 - > *I can't figure it out...yet*  
 
-[My Github Portfolio](https://afrey09.github.io/reading-notes/)
+## Reading Notes Tables of Contents
+
+### Code 102 Reading-Notes
+
+[Class 1 -Markdown](102notes/class1notes.md)
+
+[Class 2 -The Coder's Computer](102notes/class2notes.md)
+
+[Class 3 -Git Intro](102notes/class3notes.md)
+
+[Class 4 -HTML Structure](102notes/class4notes.md)
+
+[Class 5 -CSS](102notes/class5notes.md)
+
+[Class 6 -Javascript](102notes/class6notes.md)
+
+[Class 7 -Programming](class7notes.md)
+
+[Class 8 -Operators and Loops](reading-notes/102notes/class8notes.md)
+
+### Code 201 Reading-Notes
+
+[Class 1](201notes/class1notes.md)
+
+[Class 2](201notes/class2notes.md)
+
+[Class 3](201notes/class3notes.md)
+
+[Class 4](201notes/class4notes.md)
+
+[Class 5](201notes/class5notes.md)
+
+[Class 6](201notes/class6notes.md)
+
+[Class 7](201notes/class7notes.md)
+
+[Class 8](201notes/class8notes.md)
+
+[Class 9](201notes/class9notes.md)
+
+[Class 10](201notes/class10notes.md)
+
+[Class 11](201notes/class11notes.md)
+
+[Class 12](201notes/class12notes.md)
+
+[Class 13](201notes/class13notes.md)
+
+[Class 14](201notes/class14notes.md)
+
+[Class 15](201notes/class15notes.md)
+
+[My Github Portfolio](https://github.com/afrey09)
+
