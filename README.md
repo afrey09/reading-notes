@@ -1,5 +1,7 @@
 # reading-notes
 
+[Table of Contents](reading-notes/TableofContents)
+
 **My Reading Journal for 102**
 
 My name is Adrienne Frey. I'm 33, have three daughters and have been married for 11 years. My background is in healthcare but I am now moving into software development with the hope of improving my quality of life in a multitude of areas. I enjoy problem solving, creating and caring for people and my aim is to utilize those passions in the software development world. I am very much intimidated to begin this gear change but am also very excited and ready for the challenge!
