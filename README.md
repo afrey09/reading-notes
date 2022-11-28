@@ -36,35 +36,35 @@ To have a growth mindset I think means to have self-awareness; awareness of how 
 
 ### Code 201 Reading-Notes
 
-[Class 1](201notes/class1notes.md)
+[Class 1](201Notes/Class1notes.md)
 
-[Class 2](201notes/class2notes.md)
+[Class 2](201Notes/Class2notes.md)
 
-[Class 3](201notes/class3notes.md)
+[Class 3](201Notes/Class3notes.md)
 
-[Class 4](201notes/class4notes.md)
+[Class 4](201Notes/Class4notes.md)
 
-[Class 5](201notes/class5notes.md)
+[Class 5](201Notes/Class5notes.md)
 
-[Class 6](201notes/class6notes.md)
+[Class 6](201Notes/Class6notes.md)
 
-[Class 7](201notes/class7notes.md)
+[Class 7](201Notes/Class7notes.md)
 
-[Class 8](201notes/class8notes.md)
+[Class 8](201Notes/Class8notes.md)
 
-[Class 9](201notes/class9notes.md)
+[Class 9](201Notes/Class9notes.md)
 
-[Class 10](201notes/class10notes.md)
+[Class 10](201Notes/Class10notes.md)
 
-[Class 11](201notes/class11notes.md)
+[Class 11](201Notes/Class11notes.md)
 
-[Class 12](201notes/class12notes.md)
+[Class 12](201Notes/Class12notes.md)
 
-[Class 13](201notes/class13notes.md)
+[Class 13](201Notes/Class13notes.md)
 
-[Class 14](201notes/class14notes.md)
+[Class 14](201Notes/Class14notes.md)
 
-[Class 15](201notes/class15notes.md)
+[Class 15](201Notes/Class15notes.md)
 
 [My Github Portfolio](https://github.com/afrey09)
 
