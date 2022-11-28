@@ -106,3 +106,13 @@ Javascript
    Two things that require javascript in a browser is animated images and controlled multimedia. Without javascript, the browser does not have the language needed to implement such effects.
 
    To add Javascript to an HTML document, you must use the <script> element
+
+sources:
+
+https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works
+https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like
+https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML
+https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Thinking_before_coding
+https://developer.mozilla.org/en-US/docs/Glossary/Semantics
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript
