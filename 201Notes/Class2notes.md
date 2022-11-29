@@ -2,11 +2,11 @@ Intro to HTML
 
   Semantic elements are important because provide meaning and structure to text so that a browser is able to display the information properly
 
-  There are 6 heading elements in HTML <h1>-<h6>
+  There are 6 heading elements in HTML h1-h6
 
-  Superscript <sup> and subscript <sub> are used "when marking up items like dates, chemical formulae, and mathematical equations so they have correct meaning"
+  Superscript/sup and subscript/sub are used "when marking up items like dates, chemical formulae, and mathematical equations so they have correct meaning"
 
-  Title is the full expansion of the term <abbr>. Example <abbr title>
+  Title is the full expansion of the term abbr. Example abbr title
 
 CSS Structure
 
