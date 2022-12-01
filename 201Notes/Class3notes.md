@@ -49,5 +49,9 @@ Ordered and Unordered Lists
         X *= f () - multiplaction
         X <<= f () - left shift assignment 
 
-    Evaluating the expression
+    Evaluating the expression - Need additional guidance
+
+    A real world example of when a conditional statement should be used in JS program would be if you are creating a for loop and need to make an if else statement.
+
+    A loop is useful in JS if you are needing to gather certain input or information from the user. For example when I website would like your email address to add to their mailing list before they'll let you view the website's content
 
