@@ -1,4 +1,4 @@
-# reading-notes
+**Reading-Notes
 
 **My Reading Journal for 102**
 
@@ -16,7 +16,7 @@ To have a growth mindset I think means to have self-awareness; awareness of how 
 
 ## Reading Notes Tables of Contents
 
-### Code 102 Reading-Notes
+### Code 102
 
 [Class 1 -Markdown](102notes/class1notes.md)
 
@@ -34,7 +34,7 @@ To have a growth mindset I think means to have self-awareness; awareness of how 
 
 [Class 8 -Operators and Loops](102notes/class8notes.md)
 
-### Code 201 Reading-Notes
+### Code 201 
 
 [Class 1](201Notes/Class1notes.md)
 
@@ -68,3 +68,6 @@ To have a growth mindset I think means to have self-awareness; awareness of how 
 
 [My Github Portfolio](https://github.com/afrey09)
 
+### Code 301
+
+[Class 1](301Notes/Class1notes.md)
