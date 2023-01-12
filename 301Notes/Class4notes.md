@@ -6,7 +6,7 @@ React Docs - Forms
 
   2. We would want to update the state with the responses as they're being typed so that the displayed value updates as the user types
 
-  3.
+  3. HandleChange(event) allows you to target what the user is entering 
 
   Source: https://reactjs.org/docs/forms.html
   
