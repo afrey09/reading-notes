@@ -59,7 +59,11 @@ To have a growth mindset I think means to have self-awareness; awareness of how 
 ### Code 301 Intermediate Software Development
 
 [Class 1](301Notes/Class1notes.md)
+
 [Class 2](301Notes/Class2notes.md)
+
 [Class 3](301Notes/Class3notes.md)
+
+[Class 4](301Notes/Class4notes.md)
 
 [My Github Portfolio](https://github.com/afrey09)
