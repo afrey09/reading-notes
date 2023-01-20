@@ -18,4 +18,17 @@ Functional Programming
 
 Source: https://medium.com/the-renaissance-developer/concepts-of-functional-programming-in-javascript-6bc84220d2aa
 
-1. 
+1. Module - Used to break up the code into differently pieces with different functionality. It is essentially just another JavaScript file.
+
+2. Require - used to create a path to the module that is needed. 
+      Syntax: require('./name);
+
+3. To bring a module into the file you're working in, the module has to be set to export.. Ex. module.exports = counter. Then from the file you're working in, you use the require('./count) but set to a variable called counter. 
+    
+      var counter = require(./count)
+
+4. To make a module available, you have to export it from the module. Ex. module.exports = counter
+
+Source: https://www.youtube.com/watch?v=xHLd36QoS4k
+
+
