@@ -15,3 +15,14 @@ SQL stands for structured query language and is used to manipualte databases
   source: https://www.w3schools.com/sql/sql_intro.asp
 
   ![Exercise1](/401Notes/assets/exercise1.png)
+  ![Exercise2](/401Notes/assets/exercise2.png)
+  ![Exercise3](/401Notes/assets/exercise3.png)
+  ![Exercise4](/401Notes/assets/exercise4.png)
+  ![Exercise5](/401Notes/assets/exercise5.png)
+  ![Exercise6](/401Notes/assets/exercise6.png)
+  ![Exercise13](/401Notes/assets/exercise13.png)
+  ![Exercise14](/401Notes/assets/exercise14.png)
+  ![Exercise15](/401Notes/assets/exercise15.png)
+  ![Exercise16](/401Notes/assets/exercise16.png)
+  ![Exercise17](/401Notes/assets/exercise17.png)
+  ![Exercise18](/401Notes/assets/exercise18.png)
