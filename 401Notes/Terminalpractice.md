@@ -68,3 +68,5 @@ Removing a file or non empty direcories
 
 TO NOTE ..
   "whenever we refer to a file or directory on the command line it is in fact a path. As such it may be specified as either an absolute or relative path. This is pretty much always the case so remember this important point."
+
+Source: https://ryanstutorials.net/linuxtutorial/
