@@ -1,0 +1,2 @@
+2023-02-07 15:35:37.479 PST [14332] FATAL:  database files are incompatible with server
+2023-02-07 15:35:37.479 PST [14332] DETAIL:  The data directory was initialized by PostgreSQL version 12, which is not compatible with this version 14.6 (Homebrew).
