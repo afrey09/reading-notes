@@ -93,7 +93,9 @@ To have a growth mindset I think means to have self-awareness; awareness of how 
 
 [Data Structures and Algorithms](401Notes/DataStructuresandAlgorithms.md)
 
-[IntrotoSQL](401Notes/IntrotoSQL.md)
+[Intro to SQL](401Notes/IntrotoSQL.md)
+
+[Terminal practice.md](401Notes/Terminalpractice.md)
 
 [Class 1](401Notes/Class1notes.md)
 
