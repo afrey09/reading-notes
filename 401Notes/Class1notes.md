@@ -16,4 +16,4 @@ Looking ahead at this module’s course schedule, What do you look forward to le
 I am looking forward to improving my debugging capabilities. There are obviously a lot of pieces we will be learning this class but debugging feels like a pretty crucial skillset to have as a developer and I am nowhere near as confident would like to be by the end of this program.
 
 What are your learning goals after reading and reviewing the class README?
-My hope is continue to gain more confidence in my ability to tackle this material. I do not want to operate out of a place of initimdation all the time and be able to get to a place where I can see a problem or topic and break it down into bite sized pieces that feel more tangible to work with. I want to get to the end of the class feeling like I have the skillset employers are looking for and like I have the grip I need to as a junior developer.
+To be able to approach all topics with less feelings of intimidation. But specifically to the topics, I'm eager to get more practice with React and deepening my understanding of its abilities.
