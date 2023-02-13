@@ -1,6 +1,8 @@
 
 What’s the one thing I bring to this career (and a potential employer) that nobody else can?
 
+My life experience and my why's. My life experience has shaped the way I tackle problems but my whys have as well. My reasons for finding solutions are my biggest motivator. I am driven by dreams I have had for years and the dreams I have for my family of the life I hope to create for them. That pushes me to exhaust all avenues for solving a problem so that I am able to do my job and do it well.
+
 
 What are 3 things I’ll start doing to “un-stick” myself whenever I get stuck on tough piece of code, logic, or feature?
 
