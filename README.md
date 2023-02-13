@@ -97,6 +97,8 @@ To have a growth mindset I think means to have self-awareness; awareness of how 
 
 [Terminal practice](401Notes/Terminalpractice.md)
 
+[Growth Mindset](401Notes/GrowthMindset.md)
+
 [Class 1](401Notes/Class1notes.md)
 
 
