@@ -26,11 +26,12 @@ sql modeling techniques
 Videos
 sql vs nosql
 
-1. How do we treat keywords and parameters differently in SQL syntax?
+1. How do we treat keywords and parameters differently in SQL syntax? Keywords are in all caps and parameters are lower cased. Keywords are used as identifiers as table and column names. 
 
-2. Define normalization within the context of schemas and data.
+2. Define normalization within the context of schemas and data. We have to ensure however we're fetching the data that we bring it into a format that fits that specific table. The purpose is to ensure we don't have duplicate data and cause the data to become inconsistent.
 
 3. Explain the difference between one-to-one, one-to-many, and many-to-many relationships to a non-technical recruiter.
+  One-to-one relationships means that a piece of data in one table relates to one piece of data in another table. One-to-many relationships means that a piece data in one table is related to multiple pieces of data in another table. Many-to-many relationship means that multiple pieces of data in one table are related to multiple pieces of data in another table.
 
 Sources:
 https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool
