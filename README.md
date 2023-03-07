@@ -127,7 +127,9 @@ To have a growth mindset I think means to have self-awareness; awareness of how 
 
 [Class 13](401Notes/Class13notes.md)
 
-[Class 15](401Notes/Class15notes.md)
+[Class 16](401Notes/Class16notes.md)
+
+[Class 17](401Notes/Class17notes.md)
 
 [My Github Portfolio](https://github.com/afrey09)
 
