@@ -5,6 +5,11 @@ AWS API Gateway Overview
 1. What is Amazon API Gateway?
   "Amazon API Gateway is a managed service that allows developers to define the HTTP endpoints of a REST API or a WebSocket API and connect those endpoints with the corresponding backend business logic."
 
+  "If a Rest API - manage HTTP requests 
+   Provides -ility features
+   Performs routing
+   Does NOT handle request (Lambda is the handler)"
+
 2. Why is Amazon API Gateway an important part of the Serverless ecosystem?
   "API Gateway is the piece that ties together Serverless functions and API definitions. Being able to trigger the execution of a Serverless function directly in response to an HTTP request is the key reason why API Gateway is so valuable in Serverless setups"
 
