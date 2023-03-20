@@ -40,3 +40,6 @@ Does React recreate DOM nodes on every rerender? No, it only rerenders the nodes
 
 
 After React has updated the DOM, what still needs to happen before the user sees the change? The browser needs to render the new content ("paint the screen")
+
+Sources: https://react.dev/learn
+https://react.dev/learn/render-and-commit
