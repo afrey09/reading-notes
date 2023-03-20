@@ -14,7 +14,7 @@ What is JSX and why do we use it?
 Describe the process of embedding JavaScript expressions in JSX.
   "JSX lets you put markup into JavaScript. Curly braces let you “escape back” into JavaScript so that you can embed some variable from your code and display it to the use...You can also “escape into JavaScript” from JSX attributes, but you have to use curly braces instead of quotes. For example, className="avatar" passes the "avatar" string as the CSS class, but src={user.imageUrl} reads the JavaScript user.imageUrl variable value, and then passes that value as the src attribute."
 
-Does React or JSX have any special features for iteration or conditional logic?
+Does React or JSX have any special features for iteration or conditional logic? The map() method for iteration and the ternary operator for conditional logic
 
 
 How does React know to respond to a user’s inputs? Through the use of event handlers
@@ -31,7 +31,7 @@ Render and Commit
 What are the three steps of refreshing a React UI?
   - Trigger
   - Render
-  - Commit 
+  - Committing to the DOM 
 
 How do you trigger updates to a component after the initial render? using the set function
 
