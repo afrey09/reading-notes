@@ -2,6 +2,8 @@ useState() Hook
 
 Thinking in React
 
+**What is a Hook? A function
+
 Summarize the five steps of thinking in react.
 State: A Component’s Memory
 
